@@ -18,3 +18,10 @@ This is my first demo project.
 Use `git status` to list all new or modified files that haven't yet been committed.
 
 `got hub`
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
