@@ -2,5 +2,5 @@
 
 ## Second Head
 
-######Smallest Heading.
+######Smallest Heading
 This is my first demo project.
