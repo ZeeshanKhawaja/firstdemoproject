@@ -14,3 +14,5 @@ This is my first demo project.
 ~~This was mistake.~~
 
 > Pardon my french.
+
+Use `git status` to list all new or modified files that haven't yet been committed.
