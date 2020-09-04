@@ -28,7 +28,7 @@ git commit
 
 
 Some of the basic names are:
----
+```
 
 zeesane kh
 noman ch
