@@ -25,3 +25,12 @@ git status
 git add
 git commit
 ```
+
+
+Some of the basic names are:
+---
+
+zeesane kh
+noman ch
+wajid ali
+---
